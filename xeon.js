@@ -1,3 +1,3 @@
 {
-	"name": "Cheems Bot Multi Device "
+	"White 🤍 Hat 🤠": "Cheems Bot Multi Device "
 }
